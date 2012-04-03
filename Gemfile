@@ -39,4 +39,6 @@ group :test do
   gem 'turn', '0.8.2', :require => false
 end
 
+gem 'rmagick'
+
 gem 'spree', '1.0.1'
